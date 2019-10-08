@@ -20,7 +20,7 @@ class GuessingGame {
     }
 
     greater() {
-        this.min=this.amswer;
+        this.min=this.answer;
     }
 }
 
